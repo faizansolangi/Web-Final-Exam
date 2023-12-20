@@ -1,10 +1,12 @@
 import React from 'react';
-
+import BgImage from '../assets/images/group88.png';
 function Footer() {
   return (
-    <footer>
-      <p>&copy; 2023 Your Company</p>
-    </footer>
+    <>
+      <div className='footer'>
+        
+      </div>
+    </>
   );
 }
 
